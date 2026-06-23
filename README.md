@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ziya Ali
+
 
 <h1 align="center">Hello there👋, I'm Ziya Ali</h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/ziya72/ziya72/blob/main/comp.gif">
